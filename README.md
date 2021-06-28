@@ -43,7 +43,7 @@
 
 😈 `apt install ruby -y && gem install lolcat`
 
-😈 `git clone https://github.com/lovehacker404/World`
+😈 `git clone https://github.com/KTechcode/Black-mafia.git`
 
 😈 `cd World`
 
